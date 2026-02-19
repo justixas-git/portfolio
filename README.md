@@ -46,7 +46,7 @@ A full 3D character created for a planned VR horror project
 - PBR texturing workflow
 - Preparing for rigging and animation
 
-Repository: (link later)
+Repository: https://github.com/justixas-git/captain-reyes-3d-character
 
 ---
 
