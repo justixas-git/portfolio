@@ -1,6 +1,6 @@
 # Portfolio - Justas Dobrovolskas
 
-I’m a VR / Game Developer working with Unity and C#, with a strong interest in gameplay systems, AI-driven behaviour, and immersive experiences.
+I’m a VR / Game Developer working with Unity and C#, focusing on gameplay systems, AI-driven behaviour, and immersive experiences.
 
 My background combines **practical development**, **academic research**, and **creative tooling**, with a current focus on AI Behaviour Trees for horror games as part of my Master’s thesis.
 
