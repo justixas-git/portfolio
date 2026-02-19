@@ -36,8 +36,8 @@ Repository: (link later)
 
 ---
 
-### Captain Reyes - 3D Character Development
-**Tools:** Maya, Substance Painter
+### Captain Reyes - 3D Character Development (Game-Ready, VR Target)
+**Tools:** Maya, Substance Painter  
 **Status:** Modelling & texturing complete, rigging in progress
 
 A full 3D character created for a planned VR horror project
