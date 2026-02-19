@@ -7,8 +7,9 @@ My background combines **practical development**, **academic research**, and **c
 ---
 
 ## Featured Projects
+
 ### Solaris Adventure - Educational VR Game (Bachelor's Thesis)
-**Engine:** Unity
+**Engine:** Unity  
 **Focus:** VR Interaction, gameplay structure, educational design
 
 An educational VR game developed as part of my Bachelor’s thesis, aimed at teaching astronomy concepts through interactive missions and free exploration.
@@ -17,12 +18,12 @@ An educational VR game developed as part of my Bachelor’s thesis, aimed at tea
 - Built modular scene and mission structure
 - Implemented gameplay logic and UI flow
 
-Gameplay video available
+Gameplay video available - https://youtube.com/shorts/7OgnFOWju9Q?feature=share  
 Repository: (link later)
 
 ---
 
-#### Master's Thesis - Behaviour Trees for Horror Game AI (WIP)
+### Master's Thesis - Behaviour Trees for Horror Game AI (WIP)
 **Focus:** AI behaviour modelling, gameplay systems, horror design
 
 Ongoing Master’s research exploring the use of Behaviour Trees to model believable and controllable antagonist behaviour in horror games.
@@ -50,6 +51,7 @@ Repository: (link later)
 ---
 
 ## Additional Technical Work
+
 ### Creative Tool Scripting
 - JavaScript scripting for **Adobe After Effects**
 - Procedural waveform visualization (Bachelor's coursework)
