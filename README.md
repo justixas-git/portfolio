@@ -19,7 +19,7 @@ An educational VR game developed as part of my Bachelor’s thesis, aimed at tea
 - Implemented gameplay logic and UI flow
 
 Gameplay video available - https://youtube.com/shorts/7OgnFOWju9Q?feature=share  
-Repository: (link later)
+Repository: https://github.com/justixas-git/solaris-adventure-vr
 
 ---
 
