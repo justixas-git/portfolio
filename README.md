@@ -32,7 +32,7 @@ Ongoing Master’s research exploring the use of Behaviour Trees to model believ
 - Behaviour modelling methodologies
 - Design considerations for VR horror experiences
 
-Repository: (link later)
+Repository: https://github.com/justixas-git/msc-behaviour-trees-horror-ai
 
 ---
 
