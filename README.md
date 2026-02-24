@@ -52,6 +52,11 @@ Repository: https://github.com/justixas-git/captain-reyes-3d-character
 
 ## Additional Technical Work
 
+### Workflow Automation (Google Apps Script)
+Internal-style tooling for automating spreadsheet workflows, routing data, and exporting CSVs.
+
+Repository: https://github.com/justixas-git/apps-script-workflow-automation
+
 ### Creative Tool Scripting
 - JavaScript scripting for **Adobe After Effects**
 - Procedural waveform visualization (Bachelor's coursework)
