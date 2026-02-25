@@ -57,9 +57,10 @@ Internal-style tooling for automating spreadsheet workflows, routing data, and e
 
 Repository: https://github.com/justixas-git/apps-script-workflow-automation
 
-### Creative Tool Scripting
-- JavaScript scripting for **Adobe After Effects**
-- Procedural waveform visualization (Bachelor's coursework)
+### After Effects Tool Scripting (ExtendScript)
+Procedural audio visualisation generator that automates project and layer setup in Adobe After Effects.
+
+Repository: https://github.com/justixas-git/after-effects-audio-visualizer-script
 
 ---
 
