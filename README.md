@@ -1,68 +1,92 @@
-# Portfolio - Justas Dobrovolskas
+# Justas Dobrovolskas — Gameplay Systems & VR Developer
 
-I’m a VR / Game Developer working with Unity and C#, focusing on gameplay systems, AI-driven behaviour, and immersive experiences.
+This repository serves as a **curated hub** for my work in gameplay systems, virtual reality development, and supporting technical pipelines.
 
-My background combines **practical development**, **academic research**, and **creative tooling**, with a current focus on AI Behaviour Trees for horror games as part of my Master’s thesis.
-
----
-
-## Featured Projects
-
-### Solaris Adventure - Educational VR Game (Bachelor's Thesis)
-**Engine:** Unity  
-**Focus:** VR Interaction, gameplay structure, educational design
-
-An educational VR game developed as part of my Bachelor’s thesis, aimed at teaching astronomy concepts through interactive missions and free exploration.
-
-- Designed and implemented VR interaction systems
-- Built modular scene and mission structure
-- Implemented gameplay logic and UI flow
-
-Gameplay video available - https://youtube.com/shorts/7OgnFOWju9Q?feature=share  
-Repository: https://github.com/justixas-git/solaris-adventure-vr
+My primary focus is on **gameplay logic, interaction systems, and system-level design**, with an emphasis on clarity, consistency, and attention to detail.  
+Alongside production-oriented projects, I am also engaged in **research-driven exploration of AI behaviour modeling for games**.
 
 ---
 
-### Master's Thesis - Behaviour Trees for Horror Game AI (WIP)
-**Focus:** AI behaviour modelling, gameplay systems, horror design
+## 🎯 Flagship Projects
 
-Ongoing Master’s research exploring the use of Behaviour Trees to model believable and controllable antagonist behaviour in horror games.
-
-- Literature analysis and comparative research
-- Behaviour modelling methodologies
-- Design considerations for VR horror experiences
-
-Repository: https://github.com/justixas-git/msc-behaviour-trees-horror-ai
+These projects best represent my current skill set and development focus.
 
 ---
 
-### Captain Reyes - 3D Character Development (Game-Ready, VR Target)
-**Tools:** Maya, Substance Painter  
-**Status:** Modelling & texturing complete, rigging in progress
+### 🪐 Solaris Adventure — Educational VR Game  
+**Unity · C# · VR Gameplay Systems**
 
-A full 3D character created for a planned VR horror project
+A VR educational game designed for middle-school students, developed as a Bachelor’s thesis project.  
+The game focuses on **interactive learning through gameplay systems**, rather than passive content presentation.
 
-- Character modelling and UV layout
-- PBR texturing workflow
-- Preparing for rigging and animation
+**My responsibilities:**
+- Gameplay and interaction system design
+- VR-specific UI and usability logic
+- Scene structure and system organization
+- Integration of educational content into gameplay mechanics
 
-Repository: https://github.com/justixas-git/captain-reyes-3d-character
+**System-level highlights:**
+- Modular scene and gameplay architecture
+- Centralized VR interaction handling
+- Data-driven UI and learning content
+- Explicit VR comfort and accessibility constraints
 
----
-
-## Additional Technical Work
-
-### Workflow Automation (Google Apps Script)
-Internal-style tooling for automating spreadsheet workflows, routing data, and exporting CSVs.
-
-Repository: https://github.com/justixas-git/apps-script-workflow-automation
-
-### After Effects Tool Scripting (ExtendScript)
-Procedural audio visualisation generator that automates project and layer setup in Adobe After Effects.
-
-Repository: https://github.com/justixas-git/after-effects-audio-visualizer-script
+➡️ Repository: https://github.com/justixas-git/solaris-adventure-vr
 
 ---
 
-## Contact
-Best way to contact me: **LinkedIn**
+### 🧠 Behaviour Trees for VR Horror AI — MSc Research  
+**AI Systems · Behaviour Trees · Game Design Research**
+
+Ongoing Master’s research focused on **modeling antagonist behaviour using Behaviour Trees** in virtual reality horror games.
+
+The project analyzes multiple AI approaches (scripted logic, FSM/HFSM, GOAP, Behaviour Trees, hybrid methods) and defines evaluation criteria related to:
+- predictability vs variability,
+- player experience impact,
+- VR-specific comfort and believability constraints.
+
+**Status:** research and prototyping phase  
+
+➡️ Repository: https://github.com/justixas-git/msc-behaviour-trees-horror-ai
+
+---
+
+### 🎭 Captain Reyes — 3D Character Pipeline  
+**3D Art · Technical Execution · Real-Time Assets**
+
+A complete real-time 3D character created as part of a larger game prototype, focusing on **clean execution and engine readiness**.
+
+**Highlights:**
+- Full modeling → UV → PBR texturing pipeline
+- Clean topology and efficient UV layout
+- Asset structure suitable for real-time engines
+- Strong emphasis on visual consistency and detail
+
+➡️ Repository: https://github.com/justixas-git/captain-reyes-3d-character
+
+---
+
+## 🧰 Supporting Projects
+
+These projects demonstrate tooling, automation, and technical versatility that support my main development work.
+
+---
+
+### 📊 Workflow Automation — Google Apps Script
+Internal workflow automation tools focused on improving data handling and reporting efficiency.  
+The repository contains sanitized examples highlighting structure and approach rather than proprietary data.
+
+➡️ Repository: https://github.com/justixas-git/apps-script-workflow-automation
+
+---
+
+### 🎶 After Effects Audio Visualizer Script
+A custom scripting project exploring procedural animation driven by audio data within After Effects.
+
+➡️ Repository: https://github.com/justixas-git/after-effects-audio-visualizer-script
+
+---
+
+## 🔗 Contact & Profile
+
+- GitHub Profile: https://github.com/justixas-git
