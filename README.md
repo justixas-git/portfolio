@@ -30,6 +30,7 @@ The game focuses on **interactive learning through gameplay systems**, rather th
 - Centralized VR interaction handling
 - Data-driven UI and learning content
 - Explicit VR comfort and accessibility constraints
+- Cross-cutting localization system with runtime language switching (post-thesis)
 
 ➡️ Repository: https://github.com/justixas-git/solaris-adventure-vr
 
